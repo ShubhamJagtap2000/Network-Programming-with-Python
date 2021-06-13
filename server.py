@@ -1,5 +1,5 @@
-import threading
 import socket
+import threading
 
 host = "127.0.0.1"    #localhost
 port = 55555
