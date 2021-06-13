@@ -1,2 +1,5 @@
 # Network-Programming-with-Python
-This repo has my work on Python-Socket module and some projects and how I applied it during my internship tasks and projects
+## This repo has:
+### My work on Python-Socket module 
+### Some projects with Python-Socket module
+### How I applied network programming during my internship tasks and projects
